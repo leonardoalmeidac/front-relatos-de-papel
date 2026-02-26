@@ -33,10 +33,11 @@ const Layout = ({ children }) => {
                 {children}
             </main>
             <footer className="layout__footer">
-                <p>&copy; 2026 Desarrollo Web Full Stack - ACTIVIDAD1 G33</p>
+                <p>&copy; 2026 Desarrollo Web Full Stack - ACTIVIDAD3 GRUPO 33</p>
             </footer>
         </div>
     );
 };
 
 export default Layout;
+
